@@ -1,0 +1,10 @@
+.weatherContainer {
+    display: flex;
+    width: 50%;
+    height: 50%;
+    margin: 10px auto;
+    padding: 5rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
